@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Amirul :wave:
+    I'm Aadi :wave:
     <br><br>
     Software Engineering !
     <br><br>
