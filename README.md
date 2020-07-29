@@ -15,7 +15,7 @@
 <br>
 <details>
   <summary> <b> About Me! </b> <i>(click to expand!)</i> </summary>
-      Coming Soon . . .
+  <p align="center">Coming Soon . . .</p>
 </details>
 
 <br>
