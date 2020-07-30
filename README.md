@@ -16,6 +16,7 @@
 <details>
   <summary> <b> About Me! </b> <i>(click to expand!)</i> </summary>
   <p align="center">Coming Soon . . .</p>
+   [![Amirul Islam's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/iamirulofficial)
 </details>
 
 <br>
