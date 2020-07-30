@@ -15,8 +15,10 @@
 <br>
 <details>
   <summary> <b> About Me! </b> <i>(click to expand!)</i> </summary>
-  <p align="center">Coming Soon . . .</p>
-   [![Amirul Islam's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/iamirulofficial)
+  <p align="center">
+   <a href="https://dev.to/iamirulofficial">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amirul Islam's DEV Profile" height="30" width="30">
+</a></p>
 </details>
 
 <br>
