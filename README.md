@@ -31,7 +31,6 @@
 </details>
 
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamirulofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
