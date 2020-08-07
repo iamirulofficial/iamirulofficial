@@ -13,14 +13,22 @@
     * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL Enthusiasts * Flutter * ReactJs * MySql *
                   <br> || Can code in c++, python, Java || <br>
                         Loving Life🌼♥️🥰
-    
-  ![Aadi Github Stats](https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  
-  <br/>
-  
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40aadicodes)](https://twitter.com/aadicodes)
   </samp>
 </p>
+ <div style="align-content:center">
+  
+  ![Aadi Github Stats](https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ </div>
+
+
+
+<p align="center">
+<a href="https://github.com/iamirulofficial/">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a></p>
+<br/>
+
+
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
