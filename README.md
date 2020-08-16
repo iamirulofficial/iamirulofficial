@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%">
-  <br>
-  <br>
+  <br />
+  <br />
   <samp>
     I'm Aadi :wave:
     <br>
