@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br/>
-<br />
+<br/>
 <a href="https://twitter.com/aadicodes"><img src= "https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40aadicodes" /></a></p>
 <br/>
 
@@ -36,6 +36,6 @@
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
   <br/>
-   <br/>
+  <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
