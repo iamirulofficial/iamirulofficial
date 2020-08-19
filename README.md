@@ -3,7 +3,7 @@
   <br />
   <br />
   <samp>
-    I'm Aadi :wave:
+   <!-- I'm Aadi :wave: -->
     <br />
     <br />
     <a href="https://dev.to/iamirulofficial">
