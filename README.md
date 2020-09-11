@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
+  Made with :heart: &nbsp;using GitHub Markdown by Aadi
   <br/>
   <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
