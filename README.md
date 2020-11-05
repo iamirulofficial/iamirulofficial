@@ -22,8 +22,8 @@
 
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=2f8cde&icon_color=971aeb&text_color=151515&bg_color=fce1e1">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=2f8cde&icon_color=971aeb&text_color=151515&bg_color=fce1e1" />
 </a>
 <br />
 <br />
