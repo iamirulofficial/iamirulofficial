@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamirulofficial/iamirulofficial/master/2.gif">
   <br />
   <br />
   <samp>
