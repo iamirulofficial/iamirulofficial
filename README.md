@@ -7,7 +7,7 @@
 </a>
     <br />
     <br />
-    Studying Software Engineering !
+    Studying Computer Science & Engineering !
     <br />
     <br />
     * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql *
