@@ -2,7 +2,7 @@
   <br />
   <br />
   <samp>
-    I'm Aadi :wave:
+    I'm Ami :wave:
     
 </a>
     <br />
